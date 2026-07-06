@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Banner.png" alt="Logo Krooq" width="180"/>
+<img src="assets/Banner.png" alt="Logo Krooq" width="800" height="400"/>
 
 # KROOQ
 
